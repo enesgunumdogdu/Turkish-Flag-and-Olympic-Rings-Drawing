@@ -14,7 +14,7 @@ pygame.init()
 
 G = 600
 window = pygame.display.set_mode((G, G-100))
-pygame.display.set_caption("Olimpiyat Halkaları")
+pygame.display.set_caption("Olympic Rings")
 
 WHITE = (255, 255, 255)
 BLUE = (0, 0, 255)

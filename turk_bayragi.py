@@ -17,7 +17,7 @@ WHITE = (255, 255, 255)
 
 G = 600
 window = pygame.display.set_mode((G, G))
-pygame.display.set_caption("Türk Bayrağı")
+pygame.display.set_caption("Turkish Flag")
 
 A = G / 2
 B = G / 2
