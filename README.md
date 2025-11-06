@@ -62,7 +62,3 @@ The Turkish flag features a white crescent moon and star on a red background, re
 - Uses mathematical calculations for accurate positioning
 - Window size: 600x600 pixels (Turkish Flag), 600x500 pixels (Olympic Rings)
 - All shapes are drawn using Pygame's circle and polygon primitives
-
-## License
-
-This project is open source and available for educational purposes.
